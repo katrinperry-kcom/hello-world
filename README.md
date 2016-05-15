@@ -1,3 +1,3 @@
 # hello-world
-Hello world git hub application
+Hello world git hubs application 
 This is a test update 
